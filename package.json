@@ -11,7 +11,7 @@
     "events": "3.3.0",
     "joi": "17.4.0",
     "lodash": "4.17.21",
-    "lowdb": "1.0.0",
+    "lowdb": "2.1.0",
     "minimongo": "6.8.2",
     "moment": "2.29.1",
     "node-sass": "4.14.1",
