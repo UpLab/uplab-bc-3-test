@@ -29,7 +29,7 @@
     "shortid": "2.2.16",
     "url-pattern": "1.0.3",
     "web-vitals": "0.2.4",
-    "yup": "0.32.9",
+    "yup": "0.32.11",
     "zangodb": "1.0.8"
   },
   "scripts": {
